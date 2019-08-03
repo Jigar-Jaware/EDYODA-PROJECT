@@ -1,0 +1,45 @@
+* {box-sizing: border-box;}
+body{
+    background-color:lightgray;
+}
+
+.div1{
+    width:100%;
+   
+    margin-left:auto;
+    margin-right:auto;
+    padding:5px;
+    background-color: rgb(132, 21, 160);
+    text-align:center;
+
+}
+
+li{
+    display:inline-block;
+}
+.list
+{   font-size:25px;
+    padding-left:50px;
+    color:white;
+    padding-right:0px;
+    padding-bottom: 0px;
+}
+.trips{
+    text-align:center;
+  
+}
+.imglist{
+    padding:0px;
+    margin:30px;
+    border: 1px solid  rgb(132, 21, 160);
+   
+}
+h3{
+    font:25px solid black;
+    padding:10px;
+    margin:0px;
+    background-color: #ffffff; 
+}
+img{
+    
+}
